@@ -1,3 +1,26 @@
+#Project Overview:
+
+This project is a simple Booking API for a fictional fitness studio, built using Django (backend) and ReactJS (frontend). The goal of this project is to demonstrate my coding skills, design thinking, and understanding of backend development principles.
+
+#📌 Requirements and Scenario:
+A fitness studio offers various group classes such as Yoga, Zumba, and HIIT. Clients should be able to:
+
+View the available classes and schedules
+
+Book a spot in a class
+
+See confirmation of their bookings
+
+This solution simulates a real-world fitness studio booking system and includes:
+
+Django REST API for backend logic and data management
+
+ReactJS frontend for an interactive client experience
+
+Full-stack integration to demonstrate end-to-end development capabilities
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
